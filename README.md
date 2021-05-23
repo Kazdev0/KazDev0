@@ -1,16 +1,20 @@
-### Hi there 👋
+### M-merhaba Sanırım Ben Win Yani Beni Herkes Win Olarak Tanıyor 👋
+-----
+🔥 Kısacası Discordda Bot Yapan Bir Kişiyim🔥
+Bildiğim Diller
+- Javascript
+- Html
+- Express.js kısaca EJS
+- Python
+---- 
+Kısacası Kendimi Tanıtayım Yazılım Kod Yazabileceğim Oyunları Severim 
+Hayatım Kodlarla Geçiyor Diye Bilirim :) 
+----
+# Kısaca Botumu Tanıtıyım
+Şuanda Aoi.js İle Yaptığım Olan [WinBOT](https://www.winbotdiscord.cf/) Adlı Botumu Halen Geliştirmeye Çalışıyorum Arada Sıkıntılar Oluyo Ama Asla Vazgeçmedim Ve Çözdüm
 
-<!--
-**WinBOT31sj/WinBOT31sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sosyal Medya Hesaplarım 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Youtube](https://www.youtube.com/channel/UCrxHe7JDE0Dr2GDyVobquUw) 
+[İnstagram[New]](https://www.instagram.com/windevelopment908/)
+Discord : Win#1881
