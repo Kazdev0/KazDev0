@@ -16,5 +16,5 @@ Hayatım Kodlarla Geçiyor Diye Bilirim :)
 # Sosyal Medya Hesaplarım 
 
 [Youtube](https://www.youtube.com/channel/UCrxHe7JDE0Dr2GDyVobquUw) 
-[İnstagram[New]](https://www.instagram.com/windevelopment908/)
+#
 Discord : Win#1881
