@@ -7,8 +7,9 @@ Bildiğim Diller
 - Express.js kısaca EJS
 - Python
 ---- 
-Kısacası Kendimi Tanıtayım Yazılım Kod Yazabileceğim Oyunları Severim 
+Kendimi Tanıtayım Yazılım Kod Yazabileceğim Oyunları Severim 
 Hayatım Kodlarla Geçiyor Diye Bilirim :) 
+Çok Hawliyim PPmde öyle üffffff
 ----
 # Kısaca Botumu Tanıtıyım
 Şuanda Aoi.js İle Yaptığım Olan [WinBOT](https://www.winbotdiscord.cf/) Adlı Botumu Halen Geliştirmeye Çalışıyorum Arada Sıkıntılar Oluyo Ama Asla Vazgeçmedim Ve Çözdüm
