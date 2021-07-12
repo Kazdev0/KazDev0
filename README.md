@@ -19,3 +19,4 @@ Hayatım Kodlarla Geçiyor Diye Bilirim :)
 [Youtube](https://www.youtube.com/channel/UCrxHe7JDE0Dr2GDyVobquUw) 
 #
 Discord : Win#1881
+ 
