@@ -18,7 +18,7 @@ Visit [His Website](https://www.google.com?qYakında...)
 
 ## Kendi VeriTabanım
 
-<a href="https://github.com/wasp2021/waspdb"><img src="https://img.shields.io/github/v/release/wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
+<a href="https://github.com/wasp2021/waspdb"><img src="https://img.shields.io/github/v1/release/wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasp2021&repo=waspdb&cache_seconds=86400&theme=react"></a>
 
