@@ -23,7 +23,7 @@ Visit [His Website]()
 
 ## Database
 
-<a href="https://github.com/Wasp2021/waspdb"><img src="https://img.shields.io/github/v/release/Wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/Wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
+<a href="https://github.com/wasp2021/waspdb"><img src="https://img.shields.io/github/v/release/wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/Wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasp2021&repo=falsisdb&cache_seconds=86400&theme=react"></a>
 
