@@ -23,8 +23,8 @@ Visit [His Website]()
 
 ## Database
 
-<a href="https://github.com/wasp2021/waspdb"><img src="https://img.shields.io/github/v/release/wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/Wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
+<a href="https://github.com/wasp2021/waspdb"><img src="https://img.shields.io/github/v/release/wasp2021v/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/stars/wasp2021/waspdb?style=for-the-badge"> <img src="https://img.shields.io/github/forks/Wasp2021/waspdb?style=for-the-badge">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasp2021&repo=falsisdb&cache_seconds=86400&theme=react"></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wasp2021&repo=falsisdb&cache_seconds=86400&theme=react"></a>
 
-<a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/Wasp2021/waspdb?style=for-the-badge"></a>
+<img src="https://img.shields.io/github/license/wasp2021/waspdb?style=for-the-badge"></a>
