@@ -28,11 +28,3 @@ Visit [His Website]()
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasp2021&repo=falsisdb&cache_seconds=86400&theme=react"></a>
 
 <a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/Wasp2021/waspdb?style=for-the-badge"></a>
-
-## Api
-
-<a href="https://github.com/Wasp2021/api"><img src="https://img.shields.io/github/stars/Wasp2021/api?style=for-the-badge">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasp2021&repo=api&cache_seconds=86400&theme=react"></a>
-
-<a href="https://www.kremlin-bot.ga/lisans"><img src="https://img.shields.io/github/license/Wasp2021/falsisdb?style=for-the-badge"></a>
