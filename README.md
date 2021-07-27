@@ -1,6 +1,6 @@
 ## About
 
-<img src"https://lanyard-profile-readme.vercel.app/api/867386516015415296">
+<img src="https://lanyard-profile-readme.vercel.app/api/867386516015415296">
 
 Visit [His Website](https://www.google.com?qYakında...)
 
