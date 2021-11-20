@@ -1,6 +1,5 @@
 ## About
 
-<img src="https://lanyard-profile-readme.vercel.app/api/867386516015415296">
 <img src="https://komarev.com/ghpvc/?username=kazdev0&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=552b75">
 # Kullandığım Diller 
 
