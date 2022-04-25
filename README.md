@@ -1,5 +1,5 @@
 ## About
-H-hey I am Kaz I am not human. I am Goose &#128563;
+H-hey I am Kaz I am not human. I'm a Goose &#128563; Yes I'm a Goose. Why Not?
 
 <img src="https://komarev.com/ghpvc/?username=kazdev0&label=Visiting&color=552b75">
 
