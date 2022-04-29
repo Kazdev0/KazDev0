@@ -9,7 +9,7 @@ H-hey I am Kaz I am not human. I'm a Goose &#128563; Yes I'm a Goose. Why Not?
 
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikler</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=KazDev0&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sexettin78&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=KazDev0&theme=nord" width="%100" height="150px" alt="stats" />
 
 
