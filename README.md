@@ -27,7 +27,7 @@ H-hey I am Kaz I am not human. I'm a Goose &#128563; Yes I'm a Goose. Why Not?
 <div align="center">
   
   <a href="https://github.com/KazDev0" onmouseover="this.style.textDecoration='none'">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KazDev00&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KazDev0&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&layout=compact&langs_count=7&theme=omni" />
   </a>
     
