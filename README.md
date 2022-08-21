@@ -1,15 +1,16 @@
 ## About
 H-hey I am Kaz I am not human. I'm a Goose &#128563; Yes I'm a Goose. Why Not?
-[Discord Presence](https://lanyard.cnrad.dev/api/952940471368450068)(https://discord.com/users/952940471368450068)<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/952940471368450068)](https://discord.com/users/952940471368450068)<br>
 
 
-<img src="https://komarev.com/ghpvc/?username=kazdev0&label=Visiting&color=552b75">
 
 
 
 
 
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikler</summary>
+  <img src="https://komarev.com/ghpvc/?username=kazdev0&label=Visiting&color=552b75">
+
 <img src="https://github-readme-stats.vercel.app/api?username=KazDev0&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=KazDev0&theme=nord" width="%100" height="150px" alt="stats" />
