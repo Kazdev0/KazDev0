@@ -1,5 +1,4 @@
 ## About
-H-hey I am Kaz I am not human. I'm a Goose &#128563; Yes I'm a Goose. Why Not? <br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/952940471368450068)](https://discord.com/users/952940471368450068)<br>
 
 
