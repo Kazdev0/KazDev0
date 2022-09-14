@@ -1,36 +1,96 @@
-## About
-[![Discord Presence](https://lanyard.cnrad.dev/api/952940471368450068)](https://discord.com/users/952940471368450068)<br>
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/front-end-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
+
+# <div align="center">I'm Kaz 💻🚀</div>  
+  <br/>
+
+- 🔭 I’m currently working on Skills  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+  
+<br/>  
 
 
 
+## My Skill Set 👩‍💻
+
+<table><tr><td valign="top" width="33%">
 
 
 
+### Frontend  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+</div>
 
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikler</summary>
-  <img src="https://komarev.com/ghpvc/?username=kazdev0&label=Visiting&color=552b75">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KazDev0&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=KazDev0&theme=nord" width="%100" height="150px" alt="stats" />
+</td><td valign="top" width="33%">
 
 
 
-  <summary style="font-weight: bold; font-size: 18px">Languages</summary>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+### Backend
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+</div>
 
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+</td></tr></table>  
+<br/>  
+<br/>
+<div align="center">
+<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
+</div>  
+<br/>  
+<br/>
+
+## Connect with me 🚀
 
 <div align="center">
-  
-  <a href="https://github.com/KazDev0" onmouseover="this.style.textDecoration='none'">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KazDev0&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&layout=compact&langs_count=7&theme=omni" />
-  </a>
-    
-</div> 
+<a href="https://github.com/https://github.com/KazDev0" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/pulkit-gupta-707459214" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100013565554132" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>
+<br/>  
+
+## Github Stats 📉
+
+<div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
+<img src="https://github-readme-stats.vercel.app/api?username=pulkit-30&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazDev0&hide_border=true&layout=compact" align="left" />  
+</div>
+<br/>  
+<br/>  
