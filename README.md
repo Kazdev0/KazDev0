@@ -6,7 +6,7 @@
 ### **<div align="center">I'm Kaz, a back-end developer 👨‍💻</div>**  
   
 
-- 🔭 I’m currently working on [My Server](https://discord.gg/BFdbBfbXBB)  
+- 🔭 I’m currently not working 
   
 
 - 🌱 I’m currently learning Typescript  
@@ -14,8 +14,6 @@
 
 - ❓ Don't ask me about your Error  
   
-
-- ⚡ Fun fact: ı am goose 😳  
   
 
 <br/>  
