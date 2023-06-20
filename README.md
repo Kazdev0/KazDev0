@@ -1,1 +1,1 @@
-<figure><embed src="https://wakatime.com/share/@4b14f350-42fc-495a-b43f-40f0b953890e/a88a989e-6ead-488c-8074-53c7269b6f41.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@4b14f350-42fc-495a-b43f-40f0b953890e/aa52ae52-7f7b-454c-8181-b2f7e6fa4415.png
